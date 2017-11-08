@@ -1712,7 +1712,6 @@ public struct GoogleIcon {
             GoogleIcon.e658,
             GoogleIcon.e664,
             GoogleIcon.e666,
-            
             GoogleIcon.e66a,
             GoogleIcon.e66e,
             GoogleIcon.e670,
@@ -1751,8 +1750,6 @@ public struct GoogleIcon {
             GoogleIcon.e799,
             GoogleIcon.e7a4,
             GoogleIcon.e7a6,
-            GoogleIcon.e7a8,
-            GoogleIcon.e7ab,
             GoogleIcon.e7b0,
             GoogleIcon.e7b3,
             GoogleIcon.e7d3,

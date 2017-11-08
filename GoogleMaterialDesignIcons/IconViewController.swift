@@ -29,6 +29,7 @@ class IconViewController: UIViewController, UICollectionViewDelegateFlowLayout, 
     }
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        print("GoogleIcon.icons().count\(GoogleIcon.icons().count)")
         return GoogleIcon.icons().count
     }
 
